@@ -1,0 +1,2 @@
+#Basics of Exception Handling in UIPath: 
+ - Handle different kind of exceptions that might arise during the execution of the application
